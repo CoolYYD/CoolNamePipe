@@ -1,0 +1,10 @@
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\log4netConfig.xml
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\CoolNamePipe.Demo.Server.exe.config
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\CoolNamePipe.Demo.Server.exe
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\CoolNamePipe.Demo.Server.pdb
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\CoolNamePipe.dll
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\log4net.dll
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\bin\Debug\CoolNamePipe.pdb
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\obj\Debug\CoolNamePipe.Demo.Server.csprojResolveAssemblyReference.cache
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\obj\Debug\CoolNamePipe.Demo.Server.exe
+D:\MyProject\CoolNamePipe\CoolNamePipe.Demo.Server\obj\Debug\CoolNamePipe.Demo.Server.pdb
